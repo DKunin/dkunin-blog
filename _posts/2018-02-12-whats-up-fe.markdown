@@ -3,6 +3,7 @@ layout: post
 title:  "What's up, frontend?"
 date:   2018-02-12 21:30:00 +0300
 categories: links
+short: ""
 ---
 
 # Основное
