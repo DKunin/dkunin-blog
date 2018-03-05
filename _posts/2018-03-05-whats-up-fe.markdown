@@ -3,11 +3,8 @@ layout: post
 title:  "What's up, frontend?"
 date:   2018-03-05 21:30:00 +0300
 categories: links
+short: Jake Archiblads explanation of loops, snapshotting your site, css delighters and more!
 ---
-
-# Intro
-
-Jake Archiblads explanation of loops, snapshotting your site, css delighters and more!
 
 # JS
 - [https://www.youtube.com/watch?v=cCOL7MC4Pl0](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
