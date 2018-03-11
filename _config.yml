@@ -17,10 +17,8 @@ title: DKBlog
 email: info@dkunin.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Some ideas on front-end and development and stuff, mostly personalized picks of interesting links I've found.
-baseurl: "dkunin-blog/" # the subpath of your site, e.g. /blog
-url: "https://dkunin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dkunin
-github_username: dkunin
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
