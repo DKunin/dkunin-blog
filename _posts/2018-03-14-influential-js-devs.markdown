@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What's up, frontend?"
+title:  "List of influential developers"
 date:   2018-03-14 08:30:00 +0300
 categories: links
 short: "9 Influential JavaScript Developers You Should Follow, by John Hannah"
