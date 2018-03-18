@@ -6,19 +6,19 @@ categories: links
 short: "3-rd party scripts are dangerous, beyond react 16 and prevent smoosh now!"
 ---
 
-# JS
+## JS
 - [Loading 3-rd party JS](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/)
 - [Do not allow Smoosh to happen!](https://github.com/staltz/prevent-smoosh)
 - [Enter npm ci](http://blog.npmjs.org/post/171556855892/introducing-npm-ci-for-faster-more-reliable)
 - [Beyond React 16](https://auth0.com/blog/time-slice-suspense-react16/) [Another Post](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
 - [Introducing the HNPWA API – HNPWA](https://blog.hnpwa.com/introducing-the-hnpwa-api-656db6b88ec1) 
 
-# CSS
+## CSS
 - [How to Write CSS That Works in Every Browser, Even the Old Ones](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/) 
 - [What Houdini Means for Animating Transforms](https://css-tricks.com/what-houdini-means-for-animating-transforms/) 
 - [We Write CSS Like We Did in the 90s, and Yes, It’s Silly](http://alistapart.com/article/we-write-css-like-we-did-in-the-90s-and-yes-its-silly) 
 
-# Misc
+## Misc
 - [What the heck is JWT anyway?](https://dev.to/siwalik/what-the-heck-is-jwt-anyway--47hg) 
 - [GitHub - RadhiFadlillah/shiori: Simple bookmark manager built with Go](https://github.com/RadhiFadlillah/shiori) 
 - [The Art of the Awkward 1:1 – Mark Rabkin – Medium](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) 

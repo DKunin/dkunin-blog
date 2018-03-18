@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "What's up, frontend?"
+date:   2018-03-18 12:00:00 +0300
+categories: links
+short: "Stylish npm searches, beautiful charts, and stuff, get started with graphql."
+---
+
+## JS
+- Search npm packages with style: [Emma-cli](https://github.com/maticzav/emma-cli)
+- Create graphics with a hand-drawn, sketchy, appearance: [rough.js](https://github.com/pshihn/rough)
+- Beautiful charts: [tui.chart](https://github.com/nhnent/tui.chart)
+- Simple horizontal bar chart printer for your terminal: [Wunderbar](https://github.com/gribnoysup/wunderbar)
+- [GraphQL > REST](https://dev-blog.apollodata.com/graphql-over-rest-with-node-heroku-and-apollo-engine-fb8581f8d77f)
+
+## CSS
+- A curated collection of useful CSS snippets you can understand in 30 seconds or less. [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css)
+
+## Misc
+- [The 4 Layers of Single Page Applications You Need to Know](https://hackernoon.com/architecting-single-page-applications-b842ea633c2e)
+- [Go vs Node.js In Building Microservices: An Exhausting Comparison](https://artjoker.net/blog/go-vs-nodejs-in-building-microservices-an-exhausting-comparison/) 
+- [GitHub - natasha/natasha: Rule-based named entity recognition library for russian language](https://github.com/natasha/natasha) 
+- [The Best Websites to Get Your Retro Gaming Fix](https://lifehacker.com/the-best-web-sites-to-get-your-retro-gaming-fix-1823765757) 

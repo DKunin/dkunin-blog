@@ -4,6 +4,8 @@ layout: default
 
 <div class="content">
 
+  <div class="post-date">{{ page.date | date: "%-d %B %Y" }}</div>
+  <div class="post-short">{{ page.short }}</div>
   <div class="post-body">
     {{ content }}
   </div>
