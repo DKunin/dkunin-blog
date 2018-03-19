@@ -15,6 +15,7 @@ short: "Stylish npm searches, beautiful charts, and stuff, get started with grap
 
 ## CSS
 - A curated collection of useful CSS snippets you can understand in 30 seconds or less. [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css)
+- Clean Up Your Code with Modular CSS [Clean it up](http://blog.teamtreehouse.com/clean-up-your-code-with-modular-css?utm_source=CSS-Weekly&utm_campaign=Issue-306&utm_medium=web)
 
 ## Misc
 - [The 4 Layers of Single Page Applications You Need to Know](https://hackernoon.com/architecting-single-page-applications-b842ea633c2e)
