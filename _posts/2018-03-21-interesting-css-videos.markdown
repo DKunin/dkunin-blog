@@ -12,3 +12,5 @@ I never understood the problem frontend devs have with CSS, always retweeting th
 
 In my book CSS => Awesome, if you think it sucks - maybe you're doing it wrong.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EashgVqboWo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
