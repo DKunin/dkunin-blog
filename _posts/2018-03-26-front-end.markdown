@@ -1,0 +1,22 @@
+---
+layout: post
+title: "What's up front end"
+date:  2018-03-26 00:21:50 +0300
+categories: links
+short: "Getting started with midi, secrets of vuejs, unblocking clipboard access, css grids and more..."
+---
+
+
+## Javascript
+- [Getting Started With The Web MIDI API](https://www.smashingmagazine.com/2018/03/web-midi-api)
+	- Is it possible to use digital musical instruments as browser inputs? With the Web MIDI API, the answer is yes! The best part is, it’s fairly quick and easy to implement and even create a really fun project.
+- [7 Secret Patterns Vue Consultants Don’t Want You to Know - Chris Fritz](https://www.youtube.com/watch?v=7lpemgMhi0k)
+- [The fastest and simplest library for SQLite3 in Node.js.](https://github.com/JoshuaWise/better-sqlite3)
+- [Unblocking Clipboard Access](https://developers.google.com/web/updates/2018/03/clipboardapi)
+
+## CSS
+- [Immersive Design: The Next 10 Years of Interfaces](https://uxdesign.cc/immersive-design-the-next-10-years-of-interfaces-16122cb6eae6)
+- [CSS Grids at scale](https://julian.is/article/css-grid-at-scale/)
+- [CSS Grid Application Layout in Production](https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa)
+- [Theming with css variables](https://css-tricks.com/theming-with-variables-globals-and-locals/)
+
