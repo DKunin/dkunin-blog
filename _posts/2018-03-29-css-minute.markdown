@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS minute"
-date:  2018-03-28 08:21:53 +0300
+date:  2018-03-29 08:30:00 +0300
 categories: links
 short: "Some intersting links regarding styles and stuff"
 ---
@@ -15,3 +15,7 @@ short: "Some intersting links regarding styles and stuff"
     CSS Grid is one of the biggest enhancements for layouts the web has seen in a long time. We are finally able to create native two-dimensional layouts—even for older browsers like IE11.
 - [w descriptors and sizes: Under the hood](ihttps://beta.observablehq.com/@eeeps/w-descriptors-and-sizes-under-the-hood)
     Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
+- [display: contents](https://bitsofco.de/how-display-contents-works)
+    What happens when you use display: contents?
+- [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
+    CSS Typed Object Model (Typed OM) brings types, methods, and a flexible object model to working with CSS values. Shipped in Chrome 66.
