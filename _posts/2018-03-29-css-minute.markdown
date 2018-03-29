@@ -13,7 +13,7 @@ short: "Some intersting links regarding styles and stuff"
     Learn everything you need to know to use background images in HTML email campaigns—from design to coding—with plenty of examples for inspiration.
 - [Css grid in production](https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa)
     CSS Grid is one of the biggest enhancements for layouts the web has seen in a long time. We are finally able to create native two-dimensional layouts—even for older browsers like IE11.
-- [w descriptors and sizes: Under the hood](ihttps://beta.observablehq.com/@eeeps/w-descriptors-and-sizes-under-the-hood)
+- [w descriptors and sizes: Under the hood](https://beta.observablehq.com/@eeeps/w-descriptors-and-sizes-under-the-hood)
     Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [display: contents](https://bitsofco.de/how-display-contents-works)
     What happens when you use display: contents?
