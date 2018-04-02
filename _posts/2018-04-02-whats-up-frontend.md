@@ -18,7 +18,7 @@ short: "PWAs with Vue, interesting modules, Una Kravets on css blend and more"
 ## CSS
 - [Una Kravets: CSS Blend Modes, Because ... - JSConf.Asia 2018](https://www.youtube.com/watch?v=XZmvHVVj0Ns)
     ![image](https://i.ytimg.com/vi/XZmvHVVj0Ns/maxresdefault.jpg)
-    CSS Blend modes are underutilized and can be used for a variety of things from improving image performance to creating scalable styling. This talk goes over ...
+    CSS Blend modes are underutilized and can be used for a variety of things from improving image performance to creating scalable styling. 
 - [Gradient shadow in pure CSS](https://gist.github.com/tunguskha/0d82bfeb498567a4e19493925df529cb)
 - [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse)
     Learn about the margin collapse, a fundamental concept of CSS layout. See visual examples of when margin collapse happens, and when it doesn't.
