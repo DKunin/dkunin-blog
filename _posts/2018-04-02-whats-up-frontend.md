@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's up, frontend?"
-date:   2018-04-02 08:30:00 +0300
+date:   2018-04-02 08:20:00 +0300
 categories: post
 short: "PWAs with Vue, interesting modules, Una Kravets on css blend and more"
 ---
