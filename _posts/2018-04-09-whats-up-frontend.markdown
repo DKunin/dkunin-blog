@@ -18,8 +18,8 @@ short: "Measuring performance, simplicity of details-summary elements,"
 - [Understanding JavaScript Proxies by Examining on-change Library](https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2) ![image](https://cdn-images-1.medium.com/max/1200/1*CeZlbYvpCxYJ9prikN7UBQ.jpeg) Javascript Proxies are a new addition in ES6. It’s a powerful feature that can be used for solving various problems elegantly.
 
 ## CSS
-- [Introduction to Viewport Units](https://www.youtube.com/watch?v=_sgF8I-Q1Gs) ![image](https://i.ytimg.com/vi/_sgF8I-Q1Gs/maxresdefault.jpg) How can you use new CSS units — viewport units — to size content that changes in response to the viewport size? Jen introduces you to how vw, vh, vmin, vmax ..."
-- [The Critical Path: Optimizing Load Times With the Chrome DevTools - Lucidchart](https://www.lucidchart.com/techblog/2018/03/13/the-critical-path-optimizing-load-times-with-the-chromedev-tools/) ![image](https://d2slcw3kip6qmk.cloudfront.net/marketing/techblog/critical-path/success.png) Our CTO shares improvements you can make and measurements to keep track of in order to optimize load times on a complex web application.
+- [Introduction to Viewport Units](https://www.youtube.com/watch?v=_sgF8I-Q1Gs) How can you use new CSS units — viewport units — to size content that changes in response to the viewport size? Jen introduces you to how vw, vh, vmin, vmax ..."
+- [The Critical Path: Optimizing Load Times With the Chrome DevTools - Lucidchart](https://www.lucidchart.com/techblog/2018/03/13/the-critical-path-optimizing-load-times-with-the-chromedev-tools/) Our CTO shares improvements you can make and measurements to keep track of in order to optimize load times on a complex web application.
 
 ## Misc
 - [Simple CS – Computer Science topics explained simply](https://tosbourn.com/simple-cs/) ![image](https://tosbourn.com/img/simple-cs.png) This is our Simple CS series, were we explain Computer Science and Web Development terms in plain language. Excellent for beginners or if you need a refresher.
