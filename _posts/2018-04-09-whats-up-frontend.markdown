@@ -3,7 +3,7 @@ layout: post
 title: "What's up, frontend?"
 date:  2018-04-09 00:29:42 +0300
 categories: links
-short: "Measuring performance, simplicity of details-summary elements,"
+short: "Measuring performance, simplicity of details-summary elements, JS proxies and some CS basics to brush up!"
 ---
 
 
