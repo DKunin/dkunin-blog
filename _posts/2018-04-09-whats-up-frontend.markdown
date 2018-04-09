@@ -23,5 +23,5 @@ short: "Measuring performance, simplicity of details-summary elements,"
 
 ## Misc
 - [Simple CS – Computer Science topics explained simply](https://tosbourn.com/simple-cs/) ![image](https://tosbourn.com/img/simple-cs.png) This is our Simple CS series, were we explain Computer Science and Web Development terms in plain language. Excellent for beginners or if you need a refresher.
-- [pedsmoreira/casex](https://github.com/pedsmoreira/casex) ![image](https://avatars0.githubusercontent.com/u/5206633?s=400&v=4) casex - All in one function for transforming word casings
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) ![image](https://avatars1.githubusercontent.com/u/58276?s=400&v=4) gron - Make JSON greppable!
+- [pedsmoreira/casex](https://github.com/pedsmoreira/casex) casex - All in one function for transforming word casings
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) gron - Make JSON greppable!
