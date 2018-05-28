@@ -25,5 +25,6 @@ Today we're mashing up two very different applications to make a cool personal d
 - [All you need to "WOW"](http://www.lordicon.com)
 
 ## Fun
-- [Wired Elements](https://wiredjs.com/) ![image](https://wiredjs.com/images/logo_400.png) Common UI Elements with a sketchy hand-drawn look.
+- [Wired Elements](https://wiredjs.com/) 
+Common UI Elements with a sketchy hand-drawn look.
 - [Insanely Simple CSS Animation Creator.](https://keyframes.app/editor/) ![image](https://keyframes.app/media/facebook_promo.jpg) An insanely simple way to create CSS animations with a visual timeline.
