@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-06-05T10:01:26+03:00</updated><id>/</id><title type="html">DKBlog</title><subtitle>Some ideas on front-end and development and stuff, mostly personalized picks of interesting links I've found.</subtitle><entry><title type="html">whats up frontend</title><link href="/links/2018/06/03/whats-new-frontend.html" rel="alternate" type="text/html" title="whats up frontend" /><published>2018-06-03T22:53:44+03:00</published><updated>2018-06-03T22:53:44+03:00</updated><id>/links/2018/06/03/whats-new-frontend</id><content type="html" xml:base="/links/2018/06/03/whats-new-frontend.html">&lt;h1 id=&quot;whats-new-frontend&quot;&gt;whats new frontend&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://30secondsofinterviews.org/&quot;&gt;30 seconds of interviews&lt;/a&gt; &lt;img src=&quot;https://github.com/fejes713/30-seconds-of-interviews/raw/master/logo.jpg&quot; alt=&quot;image&quot; /&gt; A curated collection of common web development interview questions to help you prepare for your next interview.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://serviceworke.rs/&quot;&gt;ServiceWorker Cookbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.xyz/&quot;&gt;Code.xyz — The Online Code Editor for APIs&lt;/a&gt; &lt;img src=&quot;https://code.xyz/static/images/card.jpg&quot; alt=&quot;image&quot; /&gt; Code.xyz is an online code editor. Build Enterprise-quality APIs, the powerful building blocks of software, in a single click.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://goatcodes.com/&quot;&gt;goat&lt;/a&gt; 
+Private URL shortener makes it easy to share links with your team.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://proppyjs.com&quot;&gt;ProppyJS: Functional props composition for UI components&lt;/a&gt;
+ProppyJS: JavaScript library for functional composition of props for UI components&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github&quot;&gt;Microsoft Will Acquire Coding Site GitHub&lt;/a&gt; &lt;img src=&quot;https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i54C.Fm_uosc/v1/1200x799.jpg&quot; alt=&quot;image&quot; /&gt; For Microsoft Corp., acquiring GitHub Inc. would be both a return to the company’s earliest roots and a sharp turnaround from where it was a decade ago.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/cult-of-the-complex&quot;&gt;The Cult of the Complex&lt;/a&gt; &lt;img src=&quot;https://alistapart.com/d/ALA340_SASS_300_1920_1001_81.jpg&quot; alt=&quot;image&quot; /&gt; ALA’s Zeldman bemoans our industry’s fetish for the needlessly complicated over the straightforward.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">whats new frontend</summary></entry><entry><title type="html">whats up frontend</title><link href="/links/2018/05/25/whatsup-frontend.html" rel="alternate" type="text/html" title="whats up frontend" /><published>2018-05-25T22:57:48+03:00</published><updated>2018-05-25T22:57:48+03:00</updated><id>/links/2018/05/25/whatsup-frontend</id><content type="html" xml:base="/links/2018/05/25/whatsup-frontend.html">&lt;h1 id=&quot;whats-new-frontend&quot;&gt;whats new frontend&lt;/h1&gt;
+
+&lt;h2 id=&quot;js&quot;&gt;JS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deanhume.com/displaying-a-new-version-available-progressive-web-app&quot;&gt;How to display a &quot;new version available&quot; of your Progressive Web App&lt;/a&gt; 
+In this article, I’ll show you how to add a notification to your site and display it each time that there is a new version of a service worker available.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html&quot;&gt;Sending Web Push Notifications from Node.js&lt;/a&gt; &lt;img src=&quot;https://i.imgur.com/YuhERzK.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/05/visualizing-your-smart-home-data-with-the-web-of-things&quot;&gt;Visualizing Your Smart Home Data with the Web of Things – Mozilla Hacks - the Web developer blog&lt;/a&gt; &lt;img src=&quot;https://hacks.mozilla.org/files/2018/05/graphing-hero.png&quot; alt=&quot;image&quot; /&gt;
+Today we’re mashing up two very different applications to make a cool personal dashboard for investigating all our internet-connected things, and their behavior over time. We can use one of …&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/how-you-can-start-contributing-to-node-js-today&quot;&gt;How You Can Start Contributing to Node.js Today&lt;/a&gt; &lt;img src=&quot;https://images.ctfassets.net/hspc7zpa5cvq/2O7JjA9GveomCqAw26qiUy/c709344a6f8637aceec67938acb8c591/pexels-photo-887723.jpeg&quot; alt=&quot;image&quot; /&gt; Would you like begin contributing to Node.js? We’ve collected some tips on contributing to get your first commit landed in no time.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/using-docker-compose-for-nodejs-development&quot;&gt;Using Docker Compose for NodeJS Development - via @codeship&lt;/a&gt; &lt;img src=&quot;https://blog.codeship.com/wp-content/uploads/2017/05/Codeship_Using-Docker-Compose-for-NodeJS-Development.jpg&quot; alt=&quot;image&quot; /&gt; First in a two-part series, I will cover the development and testing of a simple API using NodeJS and Docker Compose.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.inrhythm.com/one-directional-data-binding/&quot;&gt;One-directional data binding without frameworks - InRhythm&lt;/a&gt; &lt;img src=&quot;https://www.inrhythm.com/wp-content/uploads/2018/03/one-direction-arrow-sign-x-m6-1.png&quot; alt=&quot;image&quot; /&gt; This post is another by InRhythm’s own Jack Tarantino. For the full post and additional links, check out the original “Frameworkless JavaScript Part 3: One-Way Data Binding” on his website. The following article is one in a series about writing client-focused JavaScript without the help of libraries and frameworks. It’s meant to remind developers that …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;css&quot;&gt;CSS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide&quot;&gt;A Strategy Guide To CSS Custom Properties&lt;/a&gt; &lt;img src=&quot;//cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a0d1f2dd-b44b-45e5-ad01-29418cbe0fd7/google-keep-app.png&quot; alt=&quot;image&quot; /&gt; Dynamic properties provide opportunities for new creative ideas, but also the potential to add complexity to CSS. To et the most out of them, we might need a strategy for how we write and structure CSS with custom properties.
+“- &lt;a href=&quot;https://codepen.io/Zaku/full/zjarZO/&quot;&gt;Wobble Checkboxes&lt;/a&gt; &lt;img src=&quot;https://codepen.io/Zaku/pen/zjarZO/image/large.png&quot; alt=&quot;image&quot; /&gt; See https://github.com/tamino-martinius/ui-snippets-checkboxes for Source Files build with webpack See https://github.com/tamino-martinius/ui-snippets-…&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lordicon.com&quot;&gt;All you need to “WOW”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fun&quot;&gt;Fun&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiredjs.com/&quot;&gt;Wired Elements&lt;/a&gt; 
+Common UI Elements with a sketchy hand-drawn look.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://keyframes.app/editor/&quot;&gt;Insanely Simple CSS Animation Creator.&lt;/a&gt; &lt;img src=&quot;https://keyframes.app/media/facebook_promo.jpg&quot; alt=&quot;image&quot; /&gt; An insanely simple way to create CSS animations with a visual timeline.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">whats new frontend</summary></entry><entry><title type="html">whats up frontend</title><link href="/links/2018/05/14/whatsup-frontend.html" rel="alternate" type="text/html" title="whats up frontend" /><published>2018-05-14T00:47:59+03:00</published><updated>2018-05-14T00:47:59+03:00</updated><id>/links/2018/05/14/whatsup-frontend</id><content type="html" xml:base="/links/2018/05/14/whatsup-frontend.html">&lt;h1 id=&quot;whats-up-frontend&quot;&gt;whats up frontend&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bugzilla.mozilla.org/show_bug.cgi?id=1438139&quot;&gt;JS modules enabled in FF!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5&quot;&gt;Real-time Human Pose Estimation in the Browser with TensorFlow.js&lt;/a&gt; &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*BKZqEPtvM-6xwarhABZQnA.gif&quot; alt=&quot;image&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jorgebucaran/ultradom&quot;&gt;jorgebucaran/ultradom&lt;/a&gt; 
+ultradom - Minimal view layer for building declarative web user interfaces.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dassur.ma/things/regexp-quote/&quot;&gt;My most useful RegExp trick - DasSur.ma&lt;/a&gt; &lt;img src=&quot;https://dassur.ma/things/regexp-quote/html.png&quot; alt=&quot;image&quot; /&gt; I don’t often use RegExp. But when I do, it’s a variation of this pattern.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/switching-from-cluster-module-to-pm2-rabbitmq-in-node-js-d0cce5eb96f4&quot;&gt;Switching from cluster module to PM2 &amp;amp; RabbitMQ in Node.js&lt;/a&gt; &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*dgzhHyI_MgyeEJtS4omIMA.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/product-design-principles-in-a-single-card-2f6023419a87&quot;&gt;Product Design Principles in a Single Card – Prototypr&lt;/a&gt; &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*FxGfqCbbXFgROSXLoIGGRw.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">whats up frontend</summary></entry><entry><title type="html">whats up frontend</title><link href="/links/2018/05/06/whats-up-frontend.html" rel="alternate" type="text/html" title="whats up frontend" /><published>2018-05-06T00:19:41+03:00</published><updated>2018-05-06T00:19:41+03:00</updated><id>/links/2018/05/06/whats-up-frontend</id><content type="html" xml:base="/links/2018/05/06/whats-up-frontend.html">&lt;h1 id=&quot;whats-up-frontend&quot;&gt;whats up frontend&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/containerizing-node-js-applications-with-docker&quot;&gt;Containerizing Node.js Applications with Docker&lt;/a&gt; &lt;img src=&quot;https://images.ctfassets.net/hspc7zpa5cvq/4huIIWZfjyy8oo4OGGAMck/6e37d826df2fe9cdab92323883db9d8c/pexels-photo-799096.jpeg&quot; alt=&quot;image&quot; /&gt; Learn how to containerize your Node.js applications using Docker, covering everything from the basics of Docker to Node.js and Docker best practices.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://layerjs.org/&quot;&gt;layerJS&lt;/a&gt;
+&lt;img src=&quot;https://layerjs.org/img/layers_black.jpg&quot; alt=&quot;image&quot; /&gt;
+layerJS: build animated layered web user interfaces in pure HTML&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://simonwep.github.io/selection/&quot;&gt;Selection.js&lt;/a&gt;
+Selection - A simple and lightweight library to realize visual DOM Selections. No jQuery. Supports any CSS library&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/&quot;&gt;Building A Serverless Contact Form For Your Static Site&lt;/a&gt; 
+With the help of this article, you will finally be able to learn the basics of Amazon Web Services (AWS) Lambda and Simple Email Service (SES) APIs to help you build your own static site mailer on the Serverless Framework. Let’s get started!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alligator.io/js/async-clipboard-api/&quot;&gt;Accessing the Clipboard in JavaScript Using the Async Clipboard API&lt;/a&gt; &lt;img src=&quot;https://alligator.io/images/js/async-clipboard-api.png&quot; alt=&quot;image&quot; /&gt; Exploring a new JavaScript clipboard API that makes it easy to read or write text to the clipboard from a web page or a web app.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/ow&quot;&gt;sindresorhus/ow&lt;/a&gt;
+ow - Function argument validation for humans&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/roccomuso/is-google&quot;&gt;roccomuso/is-google&lt;/a&gt;
+is-google - Verify that a request is from Google crawlers using Google’s DNS verification steps&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">whats up frontend Containerizing Node.js Applications with Docker Learn how to containerize your Node.js applications using Docker, covering everything from the basics of Docker to Node.js and Docker best practices. layerJS layerJS: build animated layered web user interfaces in pure HTML Selection.js Selection - A simple and lightweight library to realize visual DOM Selections. No jQuery. Supports any CSS library Building A Serverless Contact Form For Your Static Site With the help of this article, you will finally be able to learn the basics of Amazon Web Services (AWS) Lambda and Simple Email Service (SES) APIs to help you build your own static site mailer on the Serverless Framework. Let’s get started! Accessing the Clipboard in JavaScript Using the Async Clipboard API Exploring a new JavaScript clipboard API that makes it easy to read or write text to the clipboard from a web page or a web app. sindresorhus/ow ow - Function argument validation for humans roccomuso/is-google is-google - Verify that a request is from Google crawlers using Google’s DNS verification steps</summary></entry><entry><title type="html">whats up frontend</title><link href="/links/2018/05/02/whats-up-frontend.html" rel="alternate" type="text/html" title="whats up frontend" /><published>2018-05-02T22:59:30+03:00</published><updated>2018-05-02T22:59:30+03:00</updated><id>/links/2018/05/02/whats-up-frontend</id><content type="html" xml:base="/links/2018/05/02/whats-up-frontend.html">&lt;h1 id=&quot;whats-up-frontend&quot;&gt;whats up frontend&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v10.0.0/&quot;&gt;Node v10.0.0&lt;/a&gt; &lt;img src=&quot;https://nodejs.org/static/images/logo-hexagon-card.png&quot; alt=&quot;image&quot; /&gt; No comments on this one!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/ianstormtaylor/permit&quot;&gt;ianstormtaylor/permit&lt;/a&gt;
+An unopinionated authentication library for building Node.js APIs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/tehnokv/picojs&quot;&gt;tehnokv/picojs&lt;/a&gt;
+picojs - A face detection library in 200 lines of JavaScript&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb&quot;&gt;6 essential tools release tools&lt;/a&gt;
+These 6 essential tools will release, version, and maintain your NPM modules for you
+Learning how to implement them for your own projects will save you a ton of time!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://alligator.io/html/dialog-element/&quot;&gt;Native Modals on the Web Using the HTML Dialog Element&lt;/a&gt; &lt;img src=&quot;https://alligator.io/images/html/dialog-element.png&quot; alt=&quot;image&quot; /&gt; HTML 5.2 brings us a new element that makes it easy to implement modals in websites or web apps. Here’s a quick overview of its usage.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">whats up frontend</summary></entry><entry><title type="html">whats up frontend</title><link href="/links/2018/04/23/whats-up-frontend.html" rel="alternate" type="text/html" title="whats up frontend" /><published>2018-04-23T12:33:10+03:00</published><updated>2018-04-23T12:33:10+03:00</updated><id>/links/2018/04/23/whats-up-frontend</id><content type="html" xml:base="/links/2018/04/23/whats-up-frontend.html">&lt;h1 id=&quot;whats-up-frontend&quot;&gt;whats up frontend&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Canner/slate-md-editor&quot;&gt;Canner/slate-md-editor&lt;/a&gt; 
+slate-md-editor -  A markdown editor, that allows you to edit live with hot keys support!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems&quot;&gt;Distributed architecture concepts I learned while building a large payments system&lt;/a&gt; 
+I ended up building the payments functionality in the app - and rewriting the app on the way.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/slugify&quot;&gt;sindresorhus/slugify&lt;/a&gt; 
+slugify - Slugify a string&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6&quot;&gt;Immutable.js is intimidating. Here’s how to get started.&lt;/a&gt; &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*INNhwAgxu9lkEdMBz0hp9Q.png&quot; alt=&quot;image&quot; /&gt; You hear that you should be using Immutable. You know you should, but you aren’t quite sure why. And when you go to the docs, the first snippet of code looks like this: At Pilcro, we introduced…&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/what-you-can-expect-from-node-js-10&quot;&gt;What You Can Expect From Node.js 10&lt;/a&gt; &lt;img src=&quot;https://images.ctfassets.net/hspc7zpa5cvq/2lqoAWTf6AW8CIACuKagyI/c718328ed4117875bd81971628754dc5/krissia-cruz-362015-unsplash.jpg&quot; alt=&quot;image&quot; /&gt; The release of Node.js 10 is almost upon us! Discover some of the new features and continued developments that will be shipping with the latest version.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vuepress.vuejs.org/&quot;&gt;VuePress&lt;/a&gt; 
+Vue-powered Static Site Generator&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3&quot;&gt;Designing very large (JavaScript) applications – Malte Ubl – Medium&lt;/a&gt; &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*DqT7As1rm_M9cxyW1RIW6w.png&quot; alt=&quot;image&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">whats up frontend</summary></entry><entry><title type="html">Whats up frontend</title><link href="/links/2018/04/15/whats-up-frontend.html" rel="alternate" type="text/html" title="Whats up frontend" /><published>2018-04-15T23:25:51+03:00</published><updated>2018-04-15T23:25:51+03:00</updated><id>/links/2018/04/15/whats-up-frontend</id><content type="html" xml:base="/links/2018/04/15/whats-up-frontend.html">&lt;h1 id=&quot;whats-up-frontend&quot;&gt;Whats up frontend&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/davisjam/vuln-regex-detector&quot;&gt;davisjam/vuln-regex-detector&lt;/a&gt; 
+vuln-regex-detector - Detect vulnerable regexes in your project. REDOS, catastrophic backtracking.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@sebelga/simplify-your-code-adding-hooks-to-your-promises-9e1483662dfa&quot;&gt;Simplify your functions adding “hooks” to your Promises&lt;/a&gt; 
+&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/0*01JKp6E2vDHS1JZu.&quot; alt=&quot;image&quot; /&gt;
+For my first post I am going to write about a simple technique to help you decouple pieces of functionalities of your code: hooks. Hooks, or middleware, are functions executed right “before” or…&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html&quot;&gt;Write Your Own Node.js Promise Library from Scratch&lt;/a&gt; 
+&lt;img src=&quot;https://i.imgur.com/dPaWp33.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://2ality.com/2018/04/async-iter-nodejs.html&quot;&gt;Using async iteration natively in Node.js &lt;/a&gt; 
+ Node.js v10 will be released on April 30, 2018. In that version, there will be experimental support for asynchronously iterating over readable streams. This blog post explains how that works.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.raymondcamden.com/2018/04/06/adding-recaptcha-with-a-serverless-form-processor/&quot;&gt;Adding reCaptcha with a Serverless Form Processor&lt;/a&gt; 
+ A few days ago I added Google’s reCaptcha support to a ColdFusion site. It was pretty easy (some front end work, some back end work), so I thought I’d whip up a quick demo of how you could add it to a form using a serverless processor, in my case, Webtask. To get started, let’s go over a quick demo of how such a processor could look before we add the captcha.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tomasz.janczuk.org/2018/04/build-your-own-twitter-scheduler.html&quot;&gt;Build your own Twitter scheduler&lt;/a&gt;
+ Software - shaken, not stirred&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/perfektio/google-sheets-aws-lambda-json-backend-d5e67ab4f660&quot;&gt;Google Sheets + AWS Lambda = JSON backend 😎 – Perfektio – Medium&lt;/a&gt; 
+&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*Y4YjX3tCh0YhnbHkkALxpA.png&quot; alt=&quot;image&quot; /&gt;
+We needed a simple back end for our upcoming React project. Our target was that hosting the backend should be easy and low-cost, and it shouldn’t take too much time to create or modify data on it…&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scotch.io/tutorials/list-processing-with-map-filter-and-reduce&quot;&gt;List Processing with map, filter, and reduce&lt;/a&gt; 
+&lt;img src=&quot;https://cdn.scotch.io/38945/zXLJsYu0Tza3d2Y7ufS9_List%20Processing%20with%20map%20filter%20and%20reduce.png.jpg&quot; alt=&quot;image&quot; /&gt;
+Functional programming in JavaScript is all the rage these days.And it should be: The benefits for readability, maintainability, and testability are dramatic.&quot;Functional programmming&quot; means many things to many people. One of my favorite tools from the FP mindset is programming in “&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Whats up frontend</summary></entry><entry><title type="html">What’s up, frontend?</title><link href="/links/2018/04/09/whats-up-frontend.html" rel="alternate" type="text/html" title="What's up, frontend?" /><published>2018-04-09T00:29:42+03:00</published><updated>2018-04-09T00:29:42+03:00</updated><id>/links/2018/04/09/whats-up-frontend</id><content type="html" xml:base="/links/2018/04/09/whats-up-frontend.html">&lt;h1 id=&quot;whats-up-frontend&quot;&gt;What’s up, frontend?&lt;/h1&gt;
+
+&lt;h2 id=&quot;js&quot;&gt;JS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://csswizardry.com/2018/03/measuring-the-hard-to-measure&quot;&gt;Measuring the Hard-to-Measure&lt;/a&gt;
+  Articles on CSS, OOCSS, front-end architecture, scalability and performance.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ever-to-make-an-accordion&quot;&gt;Quick Reminder that Details/Summary is the Easiest Way Ever to Make an Accordion | CSS-Tricks&lt;/a&gt; &lt;img src=&quot;https://cdn.css-tricks.com/wp-content/uploads/2018/03/accordion.jpg&quot; alt=&quot;image&quot; /&gt; 
+  Gosh bless the element. Toss some content inside it and you have an accessible expand-for-more interaction with just about zero work.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400&quot;&gt;The Comprehensive Beginner’s Guide to JavaScript Geolocation Tracking&lt;/a&gt; &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*SoGxRAWyDSQnDS1A6F26XA.png&quot; alt=&quot;image&quot; /&gt; A Google Maps tracking tutorial on retrieving, publishing, and displaying live-updating geolocation data on a realtime map using JavaScript and Google Maps API.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2&quot;&gt;Understanding JavaScript Proxies by Examining on-change Library&lt;/a&gt; &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*CeZlbYvpCxYJ9prikN7UBQ.jpeg&quot; alt=&quot;image&quot; /&gt; Javascript Proxies are a new addition in ES6. It’s a powerful feature that can be used for solving various problems elegantly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;css&quot;&gt;CSS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_sgF8I-Q1Gs&quot;&gt;Introduction to Viewport Units&lt;/a&gt; How can you use new CSS units — viewport units — to size content that changes in response to the viewport size? Jen introduces you to how vw, vh, vmin, vmax …”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lucidchart.com/techblog/2018/03/13/the-critical-path-optimizing-load-times-with-the-chromedev-tools/&quot;&gt;The Critical Path: Optimizing Load Times With the Chrome DevTools - Lucidchart&lt;/a&gt; Our CTO shares improvements you can make and measurements to keep track of in order to optimize load times on a complex web application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;misc&quot;&gt;Misc&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tosbourn.com/simple-cs/&quot;&gt;Simple CS – Computer Science topics explained simply&lt;/a&gt; &lt;img src=&quot;https://tosbourn.com/img/simple-cs.png&quot; alt=&quot;image&quot; /&gt; This is our Simple CS series, were we explain Computer Science and Web Development terms in plain language. Excellent for beginners or if you need a refresher.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pedsmoreira/casex&quot;&gt;pedsmoreira/casex&lt;/a&gt; casex - All in one function for transforming word casings&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tomnomnom/gron&quot;&gt;tomnomnom/gron&lt;/a&gt; gron - Make JSON greppable!&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">What’s up, frontend?</summary></entry><entry><title type="html">What’s up, frontend?</title><link href="/post/2018/04/02/whats-up-frontend.html" rel="alternate" type="text/html" title="What's up, frontend?" /><published>2018-04-02T08:20:00+03:00</published><updated>2018-04-02T08:20:00+03:00</updated><id>/post/2018/04/02/whats-up-frontend</id><content type="html" xml:base="/post/2018/04/02/whats-up-frontend.html">&lt;h2 id=&quot;js&quot;&gt;JS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.telerik.com/blogs/building-pwas-with-vuejs&quot;&gt;Building PWAs with Vue.js&lt;/a&gt;
+  &lt;img src=&quot;https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue_pwas_870x220px.jpg?sfvrsn=bb3db823_1&quot; alt=&quot;image&quot; /&gt;
+  Looking to get started developing Progressive Web Apps with Vue.js? Learn how to easily get PWAs built quickly using Vue.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac&quot;&gt;🔥 JavaScript Modules Worth Using 🔥 – Hacker Noon&lt;/a&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*Ed4yEvBF4DmMJ1Es1p_hXw.jpeg&quot; alt=&quot;image&quot; /&gt;
+  A quick breakdown of the most useful JavaScript modules that I find myself using over and over again. From yarn to p-map to cheerio to d3-random, these modules are worth checking out!”
+“- &lt;a href=&quot;http://benediktmeurer.de/2018/03/23/impact-of-polymorphism-on-component-based-frameworks-like-react&quot;&gt;Impact of polymorphism on component-based frameworks like React | Benedikt Meurer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;css&quot;&gt;CSS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XZmvHVVj0Ns&quot;&gt;Una Kravets: CSS Blend Modes, Because … - JSConf.Asia 2018&lt;/a&gt;
+  &lt;img src=&quot;https://i.ytimg.com/vi/XZmvHVVj0Ns/maxresdefault.jpg&quot; alt=&quot;image&quot; /&gt;
+  CSS Blend modes are underutilized and can be used for a variety of things from improving image performance to creating scalable styling.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/tunguskha/0d82bfeb498567a4e19493925df529cb&quot;&gt;Gradient shadow in pure CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jonathan-harrell.com/whats-the-deal-with-margin-collapse&quot;&gt;What’s the Deal with Margin Collapse?&lt;/a&gt;
+  Learn about the margin collapse, a fundamental concept of CSS layout. See visual examples of when margin collapse happens, and when it doesn’t.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;misc&quot;&gt;Misc&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/c2-group/creating-accessible-html-a-crash-course-in-aria-landmark-regions-40513850298b&quot;&gt;Creating Accessible HTML: A Crash Course in ARIA Landmark Regions&lt;/a&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*5Yuqx44nCJh3xki_cJpTxw.png&quot; alt=&quot;image&quot; /&gt;
+  What if I told you there are a set of roles, states, and properties that enhance HTML for the purpose of accessibility? This set of features is called ARIA (Accessible Rich Internet Applications)…”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aftertheflood.co/projects/sparks/&quot;&gt;AtF Sparks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">JS Building PWAs with Vue.js Looking to get started developing Progressive Web Apps with Vue.js? Learn how to easily get PWAs built quickly using Vue. 🔥 JavaScript Modules Worth Using 🔥 – Hacker Noon A quick breakdown of the most useful JavaScript modules that I find myself using over and over again. From yarn to p-map to cheerio to d3-random, these modules are worth checking out!” “- Impact of polymorphism on component-based frameworks like React | Benedikt Meurer</summary></entry><entry><title type="html">CSS minute</title><link href="/links/2018/03/29/css-minute.html" rel="alternate" type="text/html" title="CSS minute" /><published>2018-03-29T08:30:00+03:00</published><updated>2018-03-29T08:30:00+03:00</updated><id>/links/2018/03/29/css-minute</id><content type="html" xml:base="/links/2018/03/29/css-minute.html">&lt;h1 id=&quot;css-minute&quot;&gt;CSS minute&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://litmus.com/blog/the-ultimate-guide-to-background-images-in-email&quot;&gt;Complete guilde to background images in email&lt;/a&gt;
+  Learn everything you need to know to use background images in HTML email campaigns—from design to coding—with plenty of examples for inspiration.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa&quot;&gt;Css grid in production&lt;/a&gt;
+  CSS Grid is one of the biggest enhancements for layouts the web has seen in a long time. We are finally able to create native two-dimensional layouts—even for older browsers like IE11.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beta.observablehq.com/@eeeps/w-descriptors-and-sizes-under-the-hood&quot;&gt;w descriptors and sizes: Under the hood&lt;/a&gt;
+  Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitsofco.de/how-display-contents-works&quot;&gt;display: contents&lt;/a&gt;
+  What happens when you use display: contents?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/updates/2018/03/cssom&quot;&gt;Working with the new CSS Typed Object Model&lt;/a&gt;
+  CSS Typed Object Model (Typed OM) brings types, methods, and a flexible object model to working with CSS values. Shipped in Chrome 66.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">CSS minute</summary></entry></feed>
