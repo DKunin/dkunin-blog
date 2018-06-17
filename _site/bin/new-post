@@ -1,0 +1,15 @@
+#!/bin/bash
+
+name=$(echo $1 | tr '[:upper:]' '[:lower:]'| sed 's/ /\-/g');
+filename="./_posts/$(date +"%Y-%m-%d-")$name.markdown";
+
+echo '---' > $filename;
+echo 'layout: post' >> $filename;
+echo "title: \"$1\"" >> $filename;
+echo "date:  $(date +"%Y-%m-%d %H:%M:%S") +0300" >> $filename;
+echo "categories: links" >> $filename;
+echo "short: \"\"" >> $filename;
+echo '---' >> $filename;
+echo '' >> $filename;
+echo '' >> $filename;
+echo "# $1" >> $filename;
