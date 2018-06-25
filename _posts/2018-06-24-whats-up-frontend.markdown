@@ -5,7 +5,7 @@ date:  2018-06-24 22:23:31 +0300
 categories: links
 short: "Animations, tools and performance tips, ecmascript decorators, writing your own lint plugin and more!"
 ---
-c
+
 # whats up frontend
 
 - [7 Performance Tips for Jank-free JavaScript Animations](https://www.sitepoint.com/7-performance-tips-jank-free-javascript-animations/) Maria Antonietta Perna presents tips for optimizing JavaScript animation performance and achieving the 60fps target for smooth motion on the web.
