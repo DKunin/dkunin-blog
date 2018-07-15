@@ -14,3 +14,12 @@
     margin: 20px 0;
     border-left: 2px solid var(--main-gray);
 }
+
+img[src^="https://avatars1.githubusercontent"],
+img[src^="https://avatars2.githubusercontent"],
+img[src^="https://avatars3.githubusercontent"]
+{
+    width: 20px;
+    float: left;
+    margin-right: 5px;
+}
