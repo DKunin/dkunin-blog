@@ -1,3 +1,5 @@
 #!/bin/bash
 
-zip -r $(date +%s)-dkunin-site.zip ./_site
+thedate=$(date +%s);
+zip -r $thedate-dkunin-site.zip ./_site;
+scp $thedate-dkunin-site.zip deploy@$CITADEL_IP:/home/deploy;
