@@ -23,3 +23,7 @@ img[src^="https://avatars3.githubusercontent"]
     float: left;
     margin-right: 5px;
 }
+
+.post-category-links li {
+    padding: 5px 0;
+}
