@@ -1,6 +1,8 @@
 #!/bin/bash
 
+rm -rf *.zip;
 jekyll build --config _develop.yml;
 thedate=$(date +%s);
 zip -r $thedate-dkunin-site.zip ./_site;
 scp $thedate-dkunin-site.zip deploy@$CITADEL_IP:/home/deploy;
+ssh deploy@$CITADEL_IP ./deploy-dkunin-blog;
