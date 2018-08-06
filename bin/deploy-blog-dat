@@ -1,0 +1,4 @@
+#!/bin/bash
+
+jekyll build --config _develop.yml;
+cp -rfv ./_site/* ~/Sites/dkunin-blog;
