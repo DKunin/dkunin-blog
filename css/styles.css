@@ -39,6 +39,12 @@ img[src^='https://avatars3.githubusercontent']
     margin-right: 5px;
 }
 
+article li img {
+    max-height: 300px;
+    max-width: 100%;
+    display: block;
+}
+
 article p li
 {
     padding: 5px 0;
