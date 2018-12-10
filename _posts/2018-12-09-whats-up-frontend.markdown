@@ -4,11 +4,11 @@ title: "whats up frontend"
 date:  2018-12-09 22:57:41 +0300
 categories: links
 short: "
-	- Mhysa looks like a great tool to work with steams <br>
-	- Limit your rates in express with chae-limitrr <br>
-	- Grant - new oAuth middleware, 180+ providers <br>
-	- Have an sqlite db and want to build an API around it? Look no further than tuql (Pronounced: Too cool) <br>
-	- A nice, library/framework agnostic input mask: imaskjs <br>
+	- Mhysa looks like a great tool to work with steams \n\r\t
+	- Limit your rates in express with chae-limitrr \n\r\t
+	- Grant - new oAuth middleware, 180+ providers \n\r\t
+	- Have an sqlite db and want to build an API around it? Look no further than tuql (Pronounced: Too cool) \n\r\t
+	- A nice, library/framework agnostic input mask: imaskjs \n\r\t
 	- You've seen tui charts, and grids, now it's time for tui markdown editor
 "
 ---
