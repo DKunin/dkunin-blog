@@ -3,7 +3,7 @@ layout: post
 title: "Nativifier vs Go webview"
 date:  2018-12-14 23:12:42 +0300
 categories: links
-short: "Short story of how I found a nice way to package web app into super small 'native' app"
+short: "How I've found a nice way to package web app into super small 'native' app"
 ---
 
 
