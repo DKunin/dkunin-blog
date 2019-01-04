@@ -5,9 +5,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Some ideas on front-end and development and stuff, mostly personalized picks of interesting links I've found.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate

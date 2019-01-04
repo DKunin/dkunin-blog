@@ -1,4 +1,4 @@
 #!/bin/bash
 
 jekyll build --config _develop.yml;
-cp -rfv ./_site/* /Users/dikunin/Projects/dkunin-blog-dat;
+cp -rv ./_site/* /Users/dikunin/Projects/dkunin-blog-dat;
